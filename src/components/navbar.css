@@ -1,0 +1,20 @@
+nav {
+  height: 40px;
+  background-color: #7f8fa6;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  text-decoration: none;
+}
+
+.links {
+  text-decoration: none;
+  margin: 20px;
+  font-size: large;
+  color: black;
+}
+
+.links:hover {
+  color: #40739e;
+}
